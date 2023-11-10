@@ -1,0 +1,55 @@
++++++++++++++++| Сортировка фильмов по названию |+++++++++++++++
+{"Title":"Back to the Future","Genre":"Adventure","Year":1985,"Rating":8.5}
+{"Title":"Fight Club","Genre":"Drama","Year":1999,"Rating":8.8}
+{"Title":"Forrest Gump","Genre":"Drama","Year":1994,"Rating":8.8}
+{"Title":"Gladiator","Genre":"Action","Year":2000,"Rating":8.5}
+{"Title":"Goodfellas","Genre":"Crime","Year":1990,"Rating":8.7}
+{"Title":"Inception","Genre":"Action","Year":2010,"Rating":8.7}
+{"Title":"Interstellar","Genre":"Science Fiction","Year":2014,"Rating":8.6}
+{"Title":"Pulp Fiction","Genre":"Crime","Year":1994,"Rating":8.9}
+{"Title":"Schindler's List","Genre":"Biography","Year":1993,"Rating":8.9}
+{"Title":"The Avengers","Genre":"Action","Year":2012,"Rating":8.0}
+{"Title":"The Dark Knight","Genre":"Action","Year":2008,"Rating":9.0}
+{"Title":"The Departed","Genre":"Crime","Year":2006,"Rating":8.5}
+{"Title":"The Godfather","Genre":"Crime","Year":1972,"Rating":9.2}
+{"Title":"The Green Mile","Genre":"Crime","Year":1999,"Rating":8.6}
+{"Title":"The Lion King","Genre":"Animation","Year":1994,"Rating":8.5}
+{"Title":"The Matrix","Genre":"Science Fiction","Year":1999,"Rating":8.7}
+{"Title":"The Shawshank Redemption","Genre":"Drama","Year":1994,"Rating":9.3}
+{"Title":"The Silence of the Lambs","Genre":"Crime","Year":1991,"Rating":8.6}
+{"Title":"The Social Network","Genre":"Biography","Year":2010,"Rating":7.7}
+{"Title":"The Wolf of Wall Street","Genre":"Biography","Year":2013,"Rating":8.2}
++++++++++++++++| Список уникальных жанров фильмов |+++++++++++++++
+"Adventure"
+"Animation"
++++++++++++++++| Количество фильмов в файле |+++++++++++++++
+20
++++++++++++++++| Фильм с самыи высоким рейтингом |+++++++++++++++
+The Shawshank Redemption 9,3
++++++++++++++++| Список фильмов, отсортированных по году выпуска, начиная с самых новых |+++++++++++++++
+The Wolf of Wall Street 2013
+The Social Network 2010
+The Silence of the Lambs 1991
+The Shawshank Redemption 1994
+The Matrix 1999
+The Lion King 1994
+The Green Mile 1999
+The Godfather 1972
+The Departed 2006
+The Dark Knight 2008
+The Avengers 2012
+Schindler's List 1993
+Pulp Fiction 1994
+Interstellar 2014
+Inception 2010
+Goodfellas 1990
+Gladiator 2000
+Forrest Gump 1994
+Fight Club 1999
+Back to the Future 1985
++++++++++++++++| Фильмы, выпущенные в последние 5 лет, и выведите их названия и год выпуска |+++++++++++++++
++++++++++++++++| Cредний рейтинг всех фильмов |+++++++++++++++
+Средний рейтинг всех фильмов -> 8,635
++++++++++++++++| Фильмы, которые были выпущены после 2010 года и имеют рейтинг выше 8 |+++++++++++++++
+Interstellar год выхода - 2014, рейтинг - 8,6
+The Wolf of Wall Street год выхода - 2013, рейтинг - 8,2
